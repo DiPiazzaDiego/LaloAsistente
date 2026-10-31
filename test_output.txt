@@ -1,0 +1,35 @@
+  ⚠️ Advanced speech detection unavailable; using audio-level detection.
+📦 Jarvis dev-local (develop)
+✓ Daemon started
+🧠 Using chat model: llama3.2:3b
+🎤 Using whisper model: medium
+📡 No MCP servers configured
+💾 Initializing dialogue memory...
+✓ Dialogue memory initialized
+⚠️ 📍 Optional location features unavailable. Add a GeoLite2 database in Setup → Location.
+🔊 Initializing TTS engine (piper)...
+✅ TTS engine started
+📋 Task service ready
+🎤 Preparing speech recognition in the background...
+  🔐 Checking microphone permission...
+🎙️ Dictation enabled (hold Ctrl + Win to dictate)
+⌨️ Typed: "Hola, ¿cómo te llamas?"
+__CHAT__:{"type": "start", "data": "Hola, \u00bfc\u00f3mo te llamas?"}
+  📍 Location features are not available
+
+     To enable location-based features:
+     1. 🌐 Register for a free MaxMind account:
+        https://www.maxmind.com/en/geolite2/signup
+
+     2. 📥 Download the GeoLite2 City database (MMDB format)
+
+     3. 📂 Save the database file as:
+        C:\Users\Usuario\.local\share\jarvis\geoip\GeoLite2-City.mmdb
+  ✅ Microphone permission OK
+  🔥 Warming up models...
+  ❌ faster-whisper not available. Install with: pip install faster-whisper
+🔄 Daemon shutting down - saving memory...
+  🗺️ Plan: 1 step(s) — Reply to the user.
+  🔧 Tools (llm): 2 selected — stop, toolSearchTool
+  💬 Generating response...
+  🔁 Turn 1/8

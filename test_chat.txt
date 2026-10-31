@@ -1,0 +1,1 @@
+__CHAT_QUERY__:{"text":"Hola, ¿cómo te llamas?"}
